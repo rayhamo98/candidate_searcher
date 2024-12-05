@@ -1,33 +1,46 @@
-# React + TypeScript + Vite
+# README generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](<(https://opensource.org/licenses/Apache-2.0)>)
 
-Currently, two official plugins are available:
+## Description
 
-* [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md), which uses [Babel](https://babeljs.io/) for Fast Refresh
-* [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc), which uses [SWC](https://swc.rs/) for Fast Refresh
+This project allows the user to select from existing vehicles or create new ones. It also demonstrates the movement of the vehicle, including starting, accelerating, decelerating, reversing, turning, and stopping.
 
-## Expanding the ESLint configuration
+## Table of contents
 
-If you're developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+[installation](#installation)  
+[usage](#usage)  
+[contribution](#contribution)  
+[test](#test)  
+[github](#github)  
+[email](#email)  
+[license](#license)
 
-* Configure the top-level `parserOptions` property as follows:
+## installation
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+You can download it from my Github repository.
 
-* Replace `plugin:@typescript-eslint/recommended` with `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`.
-* Optionally, add `plugin:@typescript-eslint/stylistic-type-checked`.
-* Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` and `plugin:react/jsx-runtime` to the `extends` list.
+## usage
 
----
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+you can start the application by following these steps.
+opne the application
+opne the terminal
+type NPM i if you dont have it.
+type NPM run start
+after you can contiune with opetions you see on there.
+
+## video walk though
+
+[this is the video link for my project](https://app.screencastify.com/v3/watch/ZAuQ8mkooxYxfyhSaMg6)
+
+## github
+
+[rayhamo98](https://github.com/rayhamo98)
+
+## email
+
+rimonhamo@yahoo.com
+
+## license
+
+This project is licensed under the Apache License 2.0 license.
