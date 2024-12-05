@@ -4,7 +4,7 @@
 
 ## Description
 
-This project allows the user to select from existing vehicles or create new ones. It also demonstrates the movement of the vehicle, including starting, accelerating, decelerating, reversing, turning, and stopping.
+This project allows the user to search for candidate.
 
 ## Table of contents
 
@@ -19,6 +19,7 @@ This project allows the user to select from existing vehicles or create new ones
 ## installation
 
 You can download it from my Github repository.
+then `npm install`in terminal. last `npm run dev`
 
 ## usage
 
@@ -31,7 +32,6 @@ after you can contiune with opetions you see on there.
 
 ## video walk though
 
-[this is the video link for my project](https://app.screencastify.com/v3/watch/ZAuQ8mkooxYxfyhSaMg6)
 
 ## github
 
