@@ -15,8 +15,8 @@ const searchGithub = async () => {
     if (!response.ok) {
       throw new Error('invalid API response, check the network tab');
     }
-    // console.log('Data:', data);
-    return data;
+    console.log('Data:', data);
+    return data[0];
   } catch (err) {
     // console.log('an error occurred', err);
     return [];
